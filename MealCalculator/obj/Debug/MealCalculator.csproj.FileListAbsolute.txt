@@ -1,0 +1,6 @@
+c:\users\texas\documents\visual studio 2015\Projects\MealCalculator\MealCalculator\bin\Debug\MealCalculator.exe.config
+c:\users\texas\documents\visual studio 2015\Projects\MealCalculator\MealCalculator\bin\Debug\MealCalculator.exe
+c:\users\texas\documents\visual studio 2015\Projects\MealCalculator\MealCalculator\bin\Debug\MealCalculator.pdb
+c:\users\texas\documents\visual studio 2015\Projects\MealCalculator\MealCalculator\obj\Debug\MealCalculator.csprojResolveAssemblyReference.cache
+c:\users\texas\documents\visual studio 2015\Projects\MealCalculator\MealCalculator\obj\Debug\MealCalculator.exe
+c:\users\texas\documents\visual studio 2015\Projects\MealCalculator\MealCalculator\obj\Debug\MealCalculator.pdb
